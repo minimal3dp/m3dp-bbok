@@ -1,0 +1,1 @@
+Ender 3 v2 Screen Wiring - [SKR Mini E3 V2 / V3 on Ender 3 V2 / Ender 3 S1 LCD DWIN Knob Screen](https://www.smith3d.com/skr-mini-e3-v2-v3-on-ender-3-v2-ender-3-s1-lcd-dwin-knob-screen/)

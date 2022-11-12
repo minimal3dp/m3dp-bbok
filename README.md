@@ -7,4 +7,6 @@ I do need to mention that I looked at Obsidian and am testing that as an editor.
 ## TOC
 
 - LinuxCommands - [[LinuxCommands/README]]
+  
 - DockerCommands - [[DockerCommands/README]]
+
